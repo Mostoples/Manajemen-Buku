@@ -1,23 +1,25 @@
-# books
+# Deskripsi
 Repository ini untuk menyimpan hasil Ulangan Akhir Semester (UAS) Pemrograman Web (Pemweb) 2019
 
-creator		: 
-Andreas Wegiq Adia Hendix 
-K3517008
-Kelas B
+creator		: <br />
+Andreas Wegiq Adia Hendix <br />
+K3517008 <br />
+Kelas B <br />
 
-Untuk mencoba hasil UAS pada repository ini dapat dicoba melalui website dibawah ini
-https://andreasbook.000webhostapp.com
+Untuk mencoba hasil UAS pada repository ini dapat dicoba melalui website dibawah ini <br />
+https://andreasbook.000webhostapp.com  <br />
 
-Untuk akses menggunakan akun dengan rincian sebagai berikut :
-Akun administrator
-Username			: admin
-Password			: 123456
+# Akun
+Untuk akses menggunakan akun dengan rincian sebagai berikut : <br />
+Akun administrator <br />
+Username			: admin <br />
+Password			: 123456 <br />
+<br />
+Akun operator <br />
+Username			: operator <br />
+Password			: 123456 <br />
 
-Akun operator
-Username			: operator
-Password			: 123456
 
-
-
-Terima kasih atas perhatiannya, selamat mencoba
+<br /><br />
+<br />
+Terima kasih atas perhatiannya, selamat mencoba<br />
